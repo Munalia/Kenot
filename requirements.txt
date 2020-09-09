@@ -4,5 +4,5 @@ hachoir
 Pillow
 pyrogram
 tgcrypto
-git+https://github.com/SerMax20/youtube-dl.git
+git+https://github.com/TGExplore/youtube-dl.git
 hurry.filesize
